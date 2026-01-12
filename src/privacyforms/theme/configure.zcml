@@ -43,4 +43,11 @@
 
   <!-- -*- extra stuff goes here -*- -->
 
+  <plone:static
+      directory="theme"
+      type="theme"
+      name="privacyforms.theme"
+      />
+
+
 </configure>
