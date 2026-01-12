@@ -2,7 +2,7 @@ $primary:  #082478;;
 $secondary: #36941D;
 $tertiary: #1B470E;
 
-nav {
+nav.navbar {
   background-color: #082478 !important;
 }
 
@@ -12,4 +12,17 @@ nav#portal-breadcrumbs {
 
 #above-content-wrapper {
     margin-bottom: 1em;
+}
+
+label.form-label {
+    font-weight: bold;
+}
+
+#form-buttons-cancel {
+    background-color: red;
+    color: white;
+}
+
+#form-buttons-save{
+    background-color: green;
 }
