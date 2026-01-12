@@ -1,3 +1,15 @@
-$primary: #4AC728;
+$primary:  #082478;; 
 $secondary: #36941D;
 $tertiary: #1B470E;
+
+nav {
+  background-color: #082478 !important;
+}
+
+nav#portal-breadcrumbs {
+    display: none;
+}
+
+#above-content-wrapper {
+    margin-bottom: 1em;
+}
