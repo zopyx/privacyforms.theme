@@ -9,7 +9,6 @@ import privacyforms.theme
 
 
 class PrivacyformsThemeLayer(PloneSandboxLayer):
-
     defaultBases = (PLONE_FIXTURE,)
 
     def setUpZope(self, app, configurationContext):
