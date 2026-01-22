@@ -1,4 +1,4 @@
 Contributors
 ============
 
-- Andreas Jung, info@zopyx.com
+- Andreas Jung, hello@privacyforms.studio

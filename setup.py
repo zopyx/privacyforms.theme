@@ -35,7 +35,7 @@ setup(
     ],
     keywords="Python Plone CMS",
     author="Andreas Jung",
-    author_email="info@zopyx.com",
+    author_email="hello@privacyforms.studio",
     url="https://github.com/collective/privacyforms.theme",
     project_urls={
         "PyPI": "https://pypi.org/project/privacyforms.theme/",
