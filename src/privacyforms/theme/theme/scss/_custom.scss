@@ -1,3 +1,28 @@
 a {
     color: black;
 }
+
+.pfs-welcome-logo {
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    margin: 12px 0;
+}
+
+@media (max-width: 575.98px) {
+    .pfs-welcome-logo {
+        max-width: 70vw;
+    }
+}
+
+.field {
+  margin-bottom: 2em;
+}
+
+
+#form-widgets-email_body {
+  display: block;
+  color: blue;
+}
+
